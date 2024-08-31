@@ -4,7 +4,7 @@
 
 The Greatest Password Generator is a simple and user-friendly GUI application to generate strong and secure passwords. The application offers customizable options such as including uppercase letters, digits, and special characters. It also supports multiple languages (English, Ukrainian, and Slovak), making it accessible to a broader audience. 🌍🔒
 
-![Main Interface](src/main/resources/images/screenshot1.png)
+![Main Interface](screenshots/1.png)
 
 
 ## Features
